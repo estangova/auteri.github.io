@@ -3,6 +3,8 @@ title: Auteri Jewellers Ltd
 description:      Crown House, 27 Old Gloucester Street, London, England, WC1N 3AX   /     info@auterijewellers.com 
 show_downloads: false
 google_analytics:
+github:
+is_project_page: false
 theme: jekyll-theme-cayman
 
 
