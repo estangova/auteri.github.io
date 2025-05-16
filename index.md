@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Auteri Jewellers Ltd
 ---
 # Important Notice  
 
