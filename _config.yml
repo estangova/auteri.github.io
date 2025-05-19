@@ -5,7 +5,7 @@ github:
    is_project_page: false
 show_downloads: false
 google_analytics:
-remote_theme: lewismiddleton/cayman-dark
+theme: jekyll-theme-cayman
 
       
 
